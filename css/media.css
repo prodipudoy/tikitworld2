@@ -1,0 +1,788 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+ @media (max-width: 575.98px) {
+
+     #banner {
+         padding-top: 20px;
+     }
+
+     .button_box {
+         padding-left: 0px;
+         text-align: center;
+     }
+
+     .button_box a {
+         font-size: 12px;
+         padding: 20px !important;
+     }
+
+     .about_content p {
+         padding-top: 20px;
+     }
+
+     .hrdiv {
+         margin: 20px 0;
+     }
+
+     #about {
+         padding: 40px 0 20px;
+     }
+
+     .sliderBox {
+         padding: 30px 0;
+     }
+
+     .slide_content h2 {
+         font-size: 24px;
+         line-height: 32px;
+     }
+
+     .slide_content a {
+
+         font-size: 12px;
+         padding: 15px 50px !important;
+     }
+
+     .worksBox {
+         padding: 20px 0;
+     }
+
+     .works_link {
+
+         width: 90%;
+     }
+
+     .works_link a {
+         padding: 20px 30px;
+     }
+
+     .works_head h4 {
+         font-size: 20px;
+     }
+
+     .shedeul p {
+         font-size: 14px;
+     }
+
+     .distanceBox span {
+         font-size: 14px;
+     }
+
+     .see_morebtn a {
+
+         padding: 3px;
+     }
+
+     .m_buttonDiv {
+         padding: 12px;
+     }
+
+     .m_buttonDiv a {
+         font-size: 12px;
+     }
+
+     .team_name h2 {
+
+         font-size: 20px;
+         line-height: 24px;
+     }
+
+     .single_team {
+         margin: 20px 10px;
+     }
+
+     .top_name {
+         margin-top: -40px;
+
+     }
+
+     .team_social img {
+         width: 65%;
+     }
+
+     .left_contact h2 {
+         font-size: 24px;
+     }
+
+     .left_contact p,
+     .right_contact h6 {
+         font-size: 16px;
+
+     }
+
+
+
+
+     .news_form::after {
+         display: none;
+     }
+
+     .nF_head h4 {
+
+         font-size: 22px;
+         line-height: 36px;
+
+     }
+
+     .news_form {
+         padding: 50px 0;
+         border-radius: 10px;
+         border-top-left-radius: 60px;
+     }
+
+     #last_form {
+         padding: 20px 0px 0 0px;
+
+     }
+
+     .single_footer {
+         margin-top: 30px;
+         text-align: left !important;
+     }
+
+     .footer_logo a img {
+         width: 30%;
+     }
+
+     .my_inputGrp input {
+         padding: 10px 0;
+         font-size: 12px;
+     }
+
+     .newsBtn button {
+         font-size: 12px;
+         padding: 10px 20px !important;
+         border-radius: 20px;
+     }
+
+     .news_form::before {
+         height: 35px;
+         width: 35px;
+     }
+
+     .nF_head h4 {
+         padding: 0 10px;
+     }
+
+     .nF_head h4 {
+         font-size: 18px;
+         line-height: 32px;
+     }
+     .socialshare{
+        display: none;
+     }
+     .event_bottom span {
+        font-size: 11px;
+    }
+    .m2_buttonDiv a {
+        margin-top: 0px;
+    }
+    .m_btndiv{
+        margin-bottom: 30px;
+    }
+
+    /* single marketplace page  */
+    .child_market_top {
+        top: 10px;
+    }
+    .child_cont a{
+        font-size: 16px;
+    }
+    .backBtn a {
+        left: -10px;
+    }
+
+    .right_heart {
+        padding-top: 5px;
+        padding-right: 10px;
+    }
+
+    .right_heart a {
+        font-size: 26px;
+    }
+    .thumb_rating {
+        margin-top: -45px;
+        margin-left: 15px;
+    }
+    .thumbcontent h2{
+
+        font-size: 24px;
+    }
+    .thumb_subcontent p{
+        font-size: 11px;
+    }
+    .thumb_desc p{
+        font-size: 18px;
+    }
+
+    .search_form {
+        padding: 0 0 0 0%;
+        z-index: 99;
+    }
+    .wrap_div {
+        margin-left: 0%;
+        z-index: 9;
+    }
+    .main_searchDiv{
+        margin-top: 5px;
+        padding-top: 40px;
+    }
+    .rc_middle h3{
+        margin-top: 5%;
+    }
+    .rc_product{
+        text-align: center;
+    }
+    .main_searchDiv {
+       
+        padding: 30px 10px 30px 10px;
+    }
+    .button_box2 a{
+        font-size: 10px;
+    }
+    .login_form{
+        padding: 0;
+        margin-top: 20px;
+    }
+    .login_div{
+        margin-top: 30px;
+    }
+
+    .login_div img{
+        width: 50%;
+        padding-top: 20px;
+    }
+    .social_box{
+        margin-bottom: 30px !important;
+    }
+    .button_box2 {
+        text-align: center;
+        margin-top: -45px;
+        margin-left: 0;
+    }
+
+    #reg_banner {
+        padding-top: 0;
+        padding-bottom: 100px;
+    }
+    
+    .main_popDiv {
+        padding: 16px 5px;
+    }
+    .crossBtn {
+        
+        margin-top: -50px;
+        margin-right: 0px;
+    }
+    .main_popDiv{
+        margin-top: 35px;
+    }
+
+    .crossBtn a {
+        font-size: 14px;
+        height: 25px;
+        width: 25px;
+        padding-top: 3px;
+    }
+
+    .mpd_title h2 {
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    .mpd_desc p{
+        font-size: 14px;
+    }
+    .cart_p_details h3{
+        font-size: 16px;
+    }
+    .cart_p_details h5{
+        font-size: 12px;
+    }
+    span.spacial_span {
+        height: 25px;
+        width: 25px;
+        font-size: 16px !important;
+        line-height: 24px !important;
+    }
+    .continue_btn{
+        margin-top: 10px;
+    }
+    .continue_btn a{
+        padding: 10px 40px;
+    }
+    .product_icon_list2{
+        padding-left: 25px;
+    }
+
+    .continue_btn input, .prev_btn a {
+        
+        width: 100%;
+        display: inline-block;
+    }
+    .continue_btn2 {
+       
+        margin-top: 20px;
+    }
+    .continue_btn2 input {
+        display: inline-block;
+        width: 100%;
+        
+    }
+    div.mm-dropdown ul li, div.mm-dropdown div.textfirst{
+        font-size: 12px;
+    }
+    div.mm-dropdown div.textfirst img.down {
+        float: right;
+        margin-top: 0px;
+    }
+    .ml_single_market {
+        padding-left: 10px;
+    }
+    .m_single_market{
+        padding-right: 10px;
+    }
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+ @media (min-width: 576px) and (max-width: 767.98px) {
+
+     #banner {
+         padding-top: 30px;
+     }
+
+     .button_box {
+         padding-left: 0px;
+         text-align: center;
+     }
+
+     .about_div {
+         padding: 30px 0;
+     }
+
+     .about_content {
+         text-align: center;
+     }
+
+     .slide_content h2 {
+         font-size: 32px;
+         line-height: 42px;
+     }
+
+     .slide_content p {
+         padding: 0;
+     }
+
+     .works_link {
+
+         width: 50%;
+     }
+
+     .team_social img {
+         width: 55%;
+     }
+
+     .top_name {
+
+         padding: 0 40px;
+     }
+
+     .single_team {
+         margin: 20px 10px;
+     }
+
+     .m_buttonDiv {
+         width: 70%;
+
+     }
+
+     .event_box {
+         padding: 20px 25px;
+     }
+
+     .marketBox {
+         padding: 20px;
+     }
+
+
+     .left_contact h2 {
+         font-size: 24px;
+     }
+
+     .left_contact p,
+     .right_contact h6 {
+         font-size: 16px;
+
+     }
+
+     form#myform {
+         padding: 30px 0;
+     }
+
+     .news_form::after {
+         display: none;
+     }
+
+     .nF_head h4 {
+
+         font-size: 22px;
+         line-height: 36px;
+
+     }
+
+     .news_form {
+         padding: 50px 0;
+         border-radius: 10px;
+         border-top-left-radius: 50px;
+     }
+
+     #last_form {
+         padding: 20px 0px 0 0px;
+
+     }
+
+     .single_footer {
+         margin-top: 30px;
+         text-align: left !important;
+     }
+
+     .footer_logo a img {
+         width: 20%;
+     }
+
+     .socialshare{
+        display: none;
+     }
+     .em_middle{
+        text-align: center;
+     }
+     .m_buttonDiv {
+        
+        margin: 0 auto;
+    }
+    .m_btndiv{
+        margin-bottom: 50px;
+    }
+
+    .child_c_thumb img {
+        width: 100%;
+    }
+    .thumb_desc p{
+        font-size: 18px;
+    }
+
+    .search_form {
+        padding: 0 0 0 0%;
+        z-index: 99;
+    }
+    .wrap_div {
+        margin-left: 0%;
+        z-index: 9;
+    }
+    .main_searchDiv{
+        margin-top: 5px;
+        padding-top: 40px;
+    }
+    .rc_middle h3{
+        margin-top: 5%;
+    }
+    .rc_product{
+        text-align: center;
+    }
+
+    /* login page start  */
+    .right_login{
+        margin-top: 30px;
+    }
+    #reg_banner {
+        padding-top: 0;
+        padding-bottom: 100px;
+    }
+
+    .main_popDiv{
+        padding: 30px 20px;
+    }
+
+    .crossBtn {
+        margin-top: -65px;
+        margin-right: -17px;
+    }
+    .mpd_title h2{
+        margin-top: 25px;
+    }
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+ @media (min-width: 768px) and (max-width: 991.98px) {
+
+     #banner {
+         padding-top: 30px;
+     }
+
+     .slide_content h2 {
+
+         font-size: 24px;
+         line-height: 32px;
+     }
+
+     .slide_content p {
+         padding: 0;
+     }
+
+     .works_head h4 {
+
+         font-size: 18px;
+
+     }
+
+     .works_link a {
+         padding: 16px 10px !important;
+         font-size: 11px;
+     }
+
+     .single_event {
+         margin-top: 20px;
+     }
+
+     .marketBox h6 {
+         font-size: 20px;
+     }
+
+     .m_buttonDiv {
+         width: 50%;
+
+     }
+
+     .team_social img {
+         width: 40%;
+     }
+
+     .top_name {
+
+         padding: 0 40px;
+     }
+
+     .event_box {
+         padding: 20px 35px;
+     }
+
+     .marketBox {
+         padding: 20px;
+     }
+
+     
+
+     .left_contact h2 {
+         font-size: 24px;
+     }
+
+     .left_contact p,
+     .right_contact h6 {
+         font-size: 16px;
+
+     }
+
+     .news_form {
+         padding: 45px 0;
+     }
+
+     .nF_head h4 {
+         font-size: 22px;
+         line-height: 36px;
+
+     }
+
+     #last_form {
+         padding: 20px 100px 0 100px;
+     }
+
+     .news_form::after {
+         height: 60px;
+         width: 60px;
+         bottom: -20px;
+         right: -33px;
+     }
+     .em_middle{
+        text-align: center;
+     }
+     .m_buttonDiv {
+        
+        margin: 0 auto;
+    }
+    .m_btndiv{
+        margin-bottom: 50px;
+    }
+    .child_c_thumb p {
+        font-size: 16px;
+    }
+    .child_c_thumb {
+        margin: 20px 5px;
+    }
+
+    /* single marketplace page  */
+    .market_banner, .thumb_desc{
+        padding: 0 5%;
+    }
+    .thumb_desc p{
+        font-size: 20px;
+    }
+    .rc_product{
+        text-decoration: none;
+        text-align: center;
+    }
+    .rc_middle h3{
+        margin-top: 5%;
+    }
+    .ribbon3 {
+        width: 50%;
+        margin-left: auto;
+    }
+    .search_form {
+        padding: 0 0 0 0%;
+        z-index: 99;
+    }
+    .wrap_div {
+        margin-left: 0%;
+        z-index: 9;
+    }
+    .main_searchDiv{
+        margin-top: 5px;
+        padding-top: 40px;
+    }
+
+    /* login page  */
+    .button_box2 {
+        margin-top: -50px;
+        margin-left: 20px;
+    }
+    .button_box2 a{
+        font-size: 12px;
+    }
+    .login_form{
+        padding: 0;
+        margin-top: 20px;
+    }
+    .login_div{
+        margin-top: 30px;
+    }
+
+    .login_div img{
+        width: 50%;
+        padding-top: 20px;
+    }
+    .social_box{
+        margin-bottom: 30px !important;
+    }
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+ @media (min-width: 992px) and (max-width: 1199.98px) {
+     #banner {
+         padding-top: 30px;
+     }
+
+     .menu li a {
+         padding: 8px 10px !important;
+     }
+
+     .nav-link,
+     .nav-link:hover,
+     a.nav-link.active {
+
+         font-size: 14px;
+     }
+
+     .works_link a {
+         padding: 20px 35px !important;
+     }
+
+     .shedeul p {
+         font-size: 14px;
+     }
+
+     .distanceBox span {
+         font-size: 14px;
+     }
+
+     .m_buttonDiv {
+         padding: 15px !important;
+     }
+
+     .team_name h2 {
+         font-size: 22px;
+         line-height: 26px;
+     }
+
+     .team_social img {
+         width: 75%;
+     }
+
+     .top_name {
+         margin-top: -50px;
+
+     }
+
+     .left_contact h2 {
+         font-size: 24px;
+         line-height: 32px;
+     }
+
+     .left_contact p,
+     .right_contact h6 {
+
+         font-size: 16px;
+         line-height: 24px;
+     }
+
+     .news_form {
+         padding: 65px 20px;
+     }
+
+     .nF_head h4 {
+
+         font-size: 30px;
+         line-height: 42px;
+
+     }
+
+     .news_form::after {
+         height: 65px;
+         width: 65px;
+         bottom: -24px;
+         right: -38px;
+     }
+     /* new  */
+     .rating_m p {
+        padding: 5px 5px;
+        right: 30px;
+        font-size: 12px;
+    }
+     .rating_m a {
+        font-size: 22px;
+    }
+     .ribbon p {
+        font-size: 12px;
+        padding: 3px;
+    }
+    .event_bottom span {
+        font-size: 11px;
+    }
+    .m2_buttonDiv a {
+        margin-top: 0px;
+    }
+    .market_banner, .thumb_desc{
+        padding: 0 5%;
+    }
+    .thumb_desc p{
+        font-size: 20px;
+    }
+    
+ }
+
+ /*Extra  large devices (large desktops, 1200px and up)*/
+ @media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+ /*Extra extra large devices (large desktops, 1200px and up)*/
+ @media (min-width: 1400px) {
+    .em_middle{
+        text-align: center;
+     }
+ }
